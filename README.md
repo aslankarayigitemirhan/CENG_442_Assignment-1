@@ -57,7 +57,7 @@ This is confirmed by the t-SNE plots:
 * **Word2Vec (left)** shows tighter, more distinct semantic clusters.
 * **FastText (right)** shows broader, more connected clusters linked by morphological roots.
 
-![t-SNE Comparison](https://i.imgur.com/8Qp4y7S.png)
+![t-SNE Comparison](bench.png)
 
 ## 5. Conclusion
 
